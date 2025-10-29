@@ -15,11 +15,6 @@ Personal portfolio website built with **React + Tailwind CSS** showcasing skills
 - Lucide Icons
 
 ## 🖼️ Screenshots
-All screenshots are available in this folder:
-👉 [View Screenshots Folder](./view-screenshots/)
+Screenshot of desktop & mobile display results:
+👉 [View Screenshots](./view-screenshots/)
 
-
-## 🚀 Installation
-```bash
-npm install
-npm run dev
